@@ -1,0 +1,23 @@
+.ld-btn {
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 40%;
+    border: 1px solid #d1e4dd;
+    background: #b9c4d2;
+    padding: 2%;
+    margin: 0 2%;
+    font-size: 20px;
+    text-align: center;
+    color: #202322;
+}
+
+.ld-like-btn:hover {
+    background-color: #4b734d;
+    color: #fff;
+}
+
+.ld-dislike-btn:hover {
+    background-color: #d92e3b;
+    color: #fff;
+}
+
